@@ -1,0 +1,7 @@
+1. Game starts with 7 shells on all 14 houses of the board
+2. First player may decide which of the 7 houses you own to begin with.(same side of the Sungka board) 
+3. Starts by picking up all the shells on the chosen house and then move hand around the board in a clockwise direction, dropping one shell in each house or head the player passes(this include the opponent's houses but not head) 
+4. If the last piece falls into a player's own home, he will earn another turn, which can begin at any of the 7 houses. However, if player has no marble on his side when it his turn, then he must pass. 
+5. If the last piece falls into a house with shells, pick up all the shells and continue player's turn.
+6. If the last piece falls into an empty house, player's turn is over. However, if this happens in player's own houses, then he may claim all the shells in the house directly opposite (from your opponent's side of the board) and drop them in his own head, although the turn is still over.
+7. Game ends when all houses are empty. 
